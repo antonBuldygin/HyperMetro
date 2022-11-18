@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/HyperMetro/task/build/
+/HyperMetro/task/out/
+/HyperMetro/task/out/production/classes/
+/Topics/Output streams/Convert to char array/out/
+/Topics/Output streams/Convert to char array/out/production/classes/
+/Topics/Output streams/OutputStream class/out/
+/Topics/Output streams/OutputStream class/out/production/classes/
+/Topics/Printing data/From 0 to 4/out/
+/Topics/Printing data/From 0 to 4/out/production/classes/
